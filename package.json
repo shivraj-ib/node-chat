@@ -1,0 +1,17 @@
+{
+  "name": "node-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shivraj-ib/node-chat.git",
+  "author": "shivraj-ib <shivraj.singh@infobeans.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
